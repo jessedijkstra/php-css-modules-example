@@ -1,0 +1,5 @@
+/node_modules
+/app/static/css/*.css
+/app/static/css/*.css.map
+*.css.json
+/vendor

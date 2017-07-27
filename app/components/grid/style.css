@@ -1,0 +1,11 @@
+.grid {
+  background: #00cc00;
+  margin: 0;
+}
+
+.items {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+}
